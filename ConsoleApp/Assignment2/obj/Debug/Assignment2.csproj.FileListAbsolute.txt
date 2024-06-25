@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ConsoleApp\Assignment2\obj\Debug\Assignment2.pdb

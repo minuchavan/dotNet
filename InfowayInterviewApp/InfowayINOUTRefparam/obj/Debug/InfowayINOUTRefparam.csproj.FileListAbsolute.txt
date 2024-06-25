@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\bin\Debug\InfowayINOUTRefparam.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\bin\Debug\InfowayINOUTRefparam.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\bin\Debug\InfowayINOUTRefparam.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\obj\Debug\InfowayINOUTRefparam.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\obj\Debug\InfowayINOUTRefparam.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\obj\Debug\InfowayINOUTRefparam.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\InfowayINOUTRefparam\obj\Debug\InfowayINOUTRefparam.pdb

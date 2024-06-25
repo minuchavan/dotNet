@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\bin\Debug\PublisherSubscriber.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\obj\Debug\PublisherSubscriber.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\obj\Debug\PublisherSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\obj\Debug\PublisherSubscriber.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\InfowayInterviewApp\PublisherSubscriber\obj\Debug\PublisherSubscriber.pdb
