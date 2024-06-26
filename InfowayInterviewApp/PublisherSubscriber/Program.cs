@@ -20,7 +20,7 @@ namespace PublisherSubscriber
                 student.StudentName = "Test";
                 student.StudentEmail = "abc@gmail.com";
                 student.StudentPhone = "1234567890";
-                student.TotalMarks = 99;
+                student.TotalMarks = 55;
                 if (student.TotalMarks > 80 && student.TotalMarks < 95)
                 {
                     student.Onselection -= new InterviewBasket(ExcelDb);

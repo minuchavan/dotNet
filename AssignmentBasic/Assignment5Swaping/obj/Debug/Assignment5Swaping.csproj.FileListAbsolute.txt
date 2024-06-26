@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\bin\Debug\Assignment5Swaping.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\bin\Debug\Assignment5Swaping.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\bin\Debug\Assignment5Swaping.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\obj\Debug\Assignment5Swaping.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\obj\Debug\Assignment5Swaping.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\obj\Debug\Assignment5Swaping.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment5Swaping\obj\Debug\Assignment5Swaping.pdb

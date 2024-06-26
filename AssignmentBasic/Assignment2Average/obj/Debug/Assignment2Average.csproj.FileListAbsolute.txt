@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\bin\Debug\Assignment2Average.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\bin\Debug\Assignment2Average.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\bin\Debug\Assignment2Average.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\obj\Debug\Assignment2Average.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\obj\Debug\Assignment2Average.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\obj\Debug\Assignment2Average.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment2Average\obj\Debug\Assignment2Average.pdb

@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414738F2-E38E-497E-84AF-9E0A58C2BEFD}|Assignment10MenuDriven\\Assignment10MenuDriven.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\assignmentbasic\\assignment10menudriven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414738F2-E38E-497E-84AF-9E0A58C2BEFD}|Assignment10MenuDriven\\Assignment10MenuDriven.csproj|solutionrelative:assignment10menudriven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADCB598-839B-4045-9609-F9CA09B57C0F}|Assignment9commisionNetSalary\\Assignment9commisionNetSalary.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\assignmentbasic\\assignment9commisionnetsalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCB598-839B-4045-9609-F9CA09B57C0F}|Assignment9commisionNetSalary\\Assignment9commisionNetSalary.csproj|solutionrelative:assignment9commisionnetsalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08CEF7A-426F-41D5-9210-DF2F3732185E}|Assignment8LeapYear\\Assignment8LeapYear.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\assignmentbasic\\assignment8leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08CEF7A-426F-41D5-9210-DF2F3732185E}|Assignment8LeapYear\\Assignment8LeapYear.csproj|solutionrelative:assignment8leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98400B22-CFFE-4230-9587-85DE4C79A0FC}|Assignment7Netsalary\\Assignment7Netsalary.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment7netsalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98400B22-CFFE-4230-9587-85DE4C79A0FC}|Assignment7Netsalary\\Assignment7Netsalary.csproj|solutionrelative:assignment7netsalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D2830-82EC-456A-8DDF-843CF36E4258}|Assignment6Ascii\\Assignment6Ascii.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment6ascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D2830-82EC-456A-8DDF-843CF36E4258}|Assignment6Ascii\\Assignment6Ascii.csproj|solutionrelative:assignment6ascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB018AC-B4CC-483F-9D90-5A5B3D3B57B0}|Assignment5Swaping\\Assignment5Swaping.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment5swaping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB018AC-B4CC-483F-9D90-5A5B3D3B57B0}|Assignment5Swaping\\Assignment5Swaping.csproj|solutionrelative:assignment5swaping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229B8093-E663-42B8-904D-E8827E7ABF61}|Assignment4AdditionTwoHardcoded\\Assignment4AdditionTwoHardcoded.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment4additiontwohardcoded\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229B8093-E663-42B8-904D-E8827E7ABF61}|Assignment4AdditionTwoHardcoded\\Assignment4AdditionTwoHardcoded.csproj|solutionrelative:assignment4additiontwohardcoded\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04535B2-FAC6-4E3A-A3D3-B00A1609D245}|Assignment3\\Assignment3.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04535B2-FAC6-4E3A-A3D3-B00A1609D245}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB9A606-A310-4277-990C-E01E0357161A}|Assignment2Average\\Assignment2Average.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment2average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB9A606-A310-4277-990C-E01E0357161A}|Assignment2Average\\Assignment2Average.csproj|solutionrelative:assignment2average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE906CC-5A75-40D6-B42B-57C00369B576}|Assignment1\\Assignment1.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE906CC-5A75-40D6-B42B-57C00369B576}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment10MenuDriven\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment10MenuDriven\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment10MenuDriven\\Program.cs",
+              "RelativeToolTip": "Assignment10MenuDriven\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:44:54.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment9commisionNetSalary\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment9commisionNetSalary\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment9commisionNetSalary\\Program.cs",
+              "RelativeToolTip": "Assignment9commisionNetSalary\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:28:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment8LeapYear\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment8LeapYear\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment8LeapYear\\Program.cs",
+              "RelativeToolTip": "Assignment8LeapYear\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:13:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment7Netsalary\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment7Netsalary\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment7Netsalary\\Program.cs",
+              "RelativeToolTip": "Assignment7Netsalary\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:55:47.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment6Ascii\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment6Ascii\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment6Ascii\\Program.cs",
+              "RelativeToolTip": "Assignment6Ascii\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:49:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment5Swaping\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5Swaping\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment5Swaping\\Program.cs",
+              "RelativeToolTip": "Assignment5Swaping\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:45:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment4AdditionTwoHardcoded\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4AdditionTwoHardcoded\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment4AdditionTwoHardcoded\\Program.cs",
+              "RelativeToolTip": "Assignment4AdditionTwoHardcoded\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:42:24.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:39:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment2Average\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2Average\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment2Average\\Program.cs",
+              "RelativeToolTip": "Assignment2Average\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:15:26.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\AssignmentBasic\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:13:39.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\bin\Debug\Assignment10MenuDriven.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\bin\Debug\Assignment10MenuDriven.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\bin\Debug\Assignment10MenuDriven.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\obj\Debug\Assignment10MenuDriven.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\obj\Debug\Assignment10MenuDriven.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\obj\Debug\Assignment10MenuDriven.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment10MenuDriven\obj\Debug\Assignment10MenuDriven.pdb

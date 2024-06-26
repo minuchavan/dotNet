@@ -9,20 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29AD6F07-7AAF-4E57-B1B9-6D46B6CB5D48}|PublisherSubscriber\\PublisherSubscriber.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\infowayinterviewapp\\publishersubscriber\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29AD6F07-7AAF-4E57-B1B9-6D46B6CB5D48}|PublisherSubscriber\\PublisherSubscriber.csproj|solutionrelative:publishersubscriber\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{384EA797-381C-43FA-9D55-FE2832590598}|InfowayINOUTRefparam\\InfowayINOUTRefparam.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\infowayinterviewapp\\infowayinoutrefparam\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384EA797-381C-43FA-9D55-FE2832590598}|InfowayINOUTRefparam\\InfowayINOUTRefparam.csproj|solutionrelative:infowayinoutrefparam\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{612BFE40-706A-44CE-85B6-31A6C8799670}|InfowayInterviewApp\\InfowayInterviewApp.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\infowayinterviewapp\\infowayinterviewapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{612BFE40-706A-44CE-85B6-31A6C8799670}|InfowayInterviewApp\\InfowayInterviewApp.csproj|solutionrelative:infowayinterviewapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,42 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\InfowayInterviewApp\\Student.cs",
-              "RelativeDocumentMoniker": "InfowayInterviewApp\\Student.cs",
-              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\InfowayInterviewApp\\Student.cs",
-              "RelativeToolTip": "InfowayInterviewApp\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:32:15.233Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Student.cs",
-              "ToolTip": "E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Student.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:56:22.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Program.cs",
-              "ToolTip": "E:\\MS .NET\\Day-2\\Programs\\InfowayInterviewApp\\InfowayInterviewApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA0AAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\PublisherSubscriber\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherSubscriber\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\PublisherSubscriber\\Program.cs",
+              "RelativeToolTip": "PublisherSubscriber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:56:03.64Z",
+              "WhenOpened": "2024-06-25T12:13:47.058Z",
               "EditorCaption": ""
             },
             {
@@ -78,35 +41,9 @@
               "RelativeDocumentMoniker": "PublisherSubscriber\\Student1.cs",
               "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\PublisherSubscriber\\Student1.cs",
               "RelativeToolTip": "PublisherSubscriber\\Student1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAwwCYAAAAQAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:33:30.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\PublisherSubscriber\\Program.cs",
-              "RelativeDocumentMoniker": "PublisherSubscriber\\Program.cs",
-              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\PublisherSubscriber\\Program.cs",
-              "RelativeToolTip": "PublisherSubscriber\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:33:06.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\InfowayINOUTRefparam\\Student.cs",
-              "RelativeDocumentMoniker": "InfowayINOUTRefparam\\Student.cs",
-              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\InfowayInterviewApp\\InfowayINOUTRefparam\\Student.cs",
-              "RelativeToolTip": "InfowayINOUTRefparam\\Student.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAqwDEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:55:04.034Z",
+              "WhenOpened": "2024-06-25T12:13:45.645Z",
               "EditorCaption": ""
             }
           ]

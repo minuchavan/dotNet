@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\bin\Debug\DifferentTypesOfClasses.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\bin\Debug\DifferentTypesOfClasses.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\bin\Debug\DifferentTypesOfClasses.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\obj\Debug\DifferentTypesOfClasses.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\obj\Debug\DifferentTypesOfClasses.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\obj\Debug\DifferentTypesOfClasses.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\OOPsExample\DifferentTypesOfClasses\obj\Debug\DifferentTypesOfClasses.pdb
