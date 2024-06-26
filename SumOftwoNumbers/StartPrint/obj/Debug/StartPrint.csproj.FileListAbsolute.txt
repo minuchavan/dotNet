@@ -1,0 +1,7 @@
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\obj\Debug\StartPrint.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\obj\Debug\StartPrint.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\bin\Debug\StartPrint.exe.config
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\bin\Debug\StartPrint.exe
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\bin\Debug\StartPrint.pdb
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\obj\Debug\StartPrint.exe
+D:\DotNet\dotNet\SumOftwoNumbers\StartPrint\obj\Debug\StartPrint.pdb

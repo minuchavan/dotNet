@@ -9,9 +9,9 @@
         public int TotalMarks { get; set; }
 
         public string calculateResult(int TotalMarks)
+            {
         {
             if (TotalMarks > 80)
-            {
                 return string.Format($"Student {StudentName} has been selected for next Round of Interview !!!");
             }
             else
