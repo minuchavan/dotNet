@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.pdb

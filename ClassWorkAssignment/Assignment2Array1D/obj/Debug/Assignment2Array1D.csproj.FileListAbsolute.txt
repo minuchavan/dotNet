@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\bin\Debug\Assignment2Array1D.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\bin\Debug\Assignment2Array1D.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\bin\Debug\Assignment2Array1D.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\obj\Debug\Assignment2Array1D.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\obj\Debug\Assignment2Array1D.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\obj\Debug\Assignment2Array1D.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment2Array1D\obj\Debug\Assignment2Array1D.pdb

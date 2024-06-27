@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\bin\Debug\ListExample.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\bin\Debug\ListExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\bin\Debug\ListExample.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\obj\Debug\ListExample.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\obj\Debug\ListExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\GenericCollection\ListExample\obj\Debug\ListExample.pdb

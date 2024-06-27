@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
