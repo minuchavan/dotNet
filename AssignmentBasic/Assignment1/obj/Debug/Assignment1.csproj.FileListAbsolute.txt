@@ -1,0 +1,14 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.pdb
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.exe.config
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.exe
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\bin\Debug\Assignment1.pdb
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.exe
+D:\DotNet\dotNet\AssignmentBasic\Assignment1\obj\Debug\Assignment1.pdb

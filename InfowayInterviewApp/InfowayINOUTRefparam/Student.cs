@@ -14,22 +14,22 @@ namespace InfowayINOUTRefparam
         public string StudentPhone { get; set; }
         public int TotalMarks { get; set; }
 
-        //public string calculateResult(int TotalMarks ,out string companyName)
-        //{
-        //     companyName = "Cognizant!!";
+        public string calculateResult(int TotalMarks ,out string companyName)
+        {
+            companyName = "Cognizant!!";
 
-        //    if (TotalMarks > 80)
-        //    {
-        //        return string.Format($"Student {StudentName} has been selected for next Round of Interview !!!");
-        //    }
-        //    else
-        //    {
-        //        return string.Format($"Student {StudentName} has been rejected for next Round of Interview !!!");
-        //    }
+            if (TotalMarks > 80)
+            {
+            return string.Format($"Student {StudentName} has been selected for next Round of Interview !!!");
+          }
+           else
+           {
+                return string.Format($"Student {StudentName} has been rejected for next Round of Interview !!!");
+            }
 
-        //}
+        }
 
-        public string calculateResult(int TotalMarks, ref string companyName)
+      /*  public string calculateResult(int TotalMarks, ref string companyName)
         {
             
 
@@ -42,7 +42,7 @@ namespace InfowayINOUTRefparam
                 return string.Format($"Student {StudentName} has been rejected for next Round of Interview !!!");
             }
 
-        }
+        }*/
 
         public void InterviewCities(params string[] cities)
         {

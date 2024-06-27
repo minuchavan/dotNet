@@ -1,0 +1,7 @@
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\obj\Debug\AmazonApp.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\obj\Debug\AmazonApp.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\bin\Debug\AmazonApp.exe.config
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\bin\Debug\AmazonApp.exe
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\bin\Debug\AmazonApp.pdb
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\obj\Debug\AmazonApp.exe
+D:\DotNet\dotNet\DifferentTypeOfClasses1\AmazonApp\obj\Debug\AmazonApp.pdb

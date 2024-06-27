@@ -12,7 +12,7 @@ namespace Assignment3IfElse
         {
             Console.WriteLine("Please Enter Your Name : ");
             string name = Console.ReadLine();
-            Console.WriteLine("Enter Your Age : ");rpp
+            Console.WriteLine("Enter Your Age : ");
 
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine($"Welcome !! {name} {age} to Adventure Center !! ");

@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\bin\Debug\Assignment4AdditionTwoHardcoded.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\bin\Debug\Assignment4AdditionTwoHardcoded.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\bin\Debug\Assignment4AdditionTwoHardcoded.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\obj\Debug\Assignment4AdditionTwoHardcoded.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\obj\Debug\Assignment4AdditionTwoHardcoded.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\obj\Debug\Assignment4AdditionTwoHardcoded.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment4AdditionTwoHardcoded\obj\Debug\Assignment4AdditionTwoHardcoded.pdb

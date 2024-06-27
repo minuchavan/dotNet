@@ -1,0 +1,7 @@
+D:\DotNet\dotNet\CustomerCount\CustomerCount\bin\Debug\CustomerCount.exe.config
+D:\DotNet\dotNet\CustomerCount\CustomerCount\bin\Debug\CustomerCount.exe
+D:\DotNet\dotNet\CustomerCount\CustomerCount\bin\Debug\CustomerCount.pdb
+D:\DotNet\dotNet\CustomerCount\CustomerCount\obj\Debug\CustomerCount.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\CustomerCount\CustomerCount\obj\Debug\CustomerCount.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\CustomerCount\CustomerCount\obj\Debug\CustomerCount.exe
+D:\DotNet\dotNet\CustomerCount\CustomerCount\obj\Debug\CustomerCount.pdb

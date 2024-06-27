@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\retailsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\retailsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\wholesalesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\wholesalesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|d:\\dotnet\\dotnet\\differenttypeofclasses1\\amazonapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9C649A-2A7B-4986-A1C4-447082639D91}|AmazonApp\\AmazonApp.csproj|solutionrelative:amazonapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WholeSaleSupplier.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\WholeSaleSupplier.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\WholeSaleSupplier.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\WholeSaleSupplier.cs",
+              "RelativeToolTip": "AmazonApp\\WholeSaleSupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:45:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RetailSupplier.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\RetailSupplier.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\RetailSupplier.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\RetailSupplier.cs",
+              "RelativeToolTip": "AmazonApp\\RetailSupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:43:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Supplier.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\Supplier.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Supplier.cs",
+              "RelativeToolTip": "AmazonApp\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:40:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Employee.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Employee.cs",
+              "RelativeToolTip": "AmazonApp\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:37:39.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Person.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\Person.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Person.cs",
+              "RelativeToolTip": "AmazonApp\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:18:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimeCustomer.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\PrimeCustomer.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\PrimeCustomer.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\PrimeCustomer.cs",
+              "RelativeToolTip": "AmazonApp\\PrimeCustomer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:33:46.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Customer.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\Customer.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Customer.cs",
+              "RelativeToolTip": "AmazonApp\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wA4AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:22:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Program.cs",
+              "RelativeDocumentMoniker": "AmazonApp\\Program.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\DifferentTypeOfClasses1\\AmazonApp\\Program.cs",
+              "RelativeToolTip": "AmazonApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:17:38.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

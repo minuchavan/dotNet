@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\DotNet\\dotNet\\ConsoleApp\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{D30BA80F-0551-4735-972F-9AC0D188C8D0}|ConsoleApp\\ConsoleApp.csproj|d:\\dotnet\\dotnet\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30BA80F-0551-4735-972F-9AC0D188C8D0}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +18,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|D:\\DotNet\\dotNet\\ConsoleApp\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BB35C8-B7BC-4ECB-A4B7-0590F3792D45}|Assignment2\\Assignment2.csproj|C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BB35C8-B7BC-4ECB-A4B7-0590F3792D45}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC6EA0D-41D6-4727-B80A-2346B08EDB65}|Assignment3IfElse\\Assignment3IfElse.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\consoleapp\\assignment3ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC6EA0D-41D6-4727-B80A-2346B08EDB65}|Assignment3IfElse\\Assignment3IfElse.csproj|solutionrelative:assignment3ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BB35C8-B7BC-4ECB-A4B7-0590F3792D45}|Assignment2\\Assignment2.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\consoleapp\\assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47BB35C8-B7BC-4ECB-A4B7-0590F3792D45}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\consoleapp\\assignment1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{205A82D8-8D67-451E-A7D2-75C11F350BDF}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+>>>>>>> 6b05cb394dd0ee18781a2c223750f6ec8e77dc05
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +47,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment2\\App.config",
+              "RelativeDocumentMoniker": "Assignment2\\App.config",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment2\\App.config",
+              "RelativeToolTip": "Assignment2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T11:24:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\App.config",
+              "RelativeDocumentMoniker": "Assignment1\\App.config",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\App.config",
+              "RelativeToolTip": "Assignment1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T11:24:17.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DotNet\\dotNet\\ConsoleApp\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "D:\\DotNet\\dotNet\\ConsoleApp\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+=======
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment3IfElse\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3IfElse\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment3IfElse\\Program.cs",
+              "RelativeToolTip": "Assignment3IfElse\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA4AAAAzAAAA",
+>>>>>>> 6b05cb394dd0ee18781a2c223750f6ec8e77dc05
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T14:08:09.268Z",
               "EditorCaption": ""
@@ -69,6 +124,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\Program.cs",
@@ -76,6 +132,15 @@
               "ToolTip": "D:\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\Program.cs",
               "RelativeToolTip": "Assignment1\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+=======
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ConsoleApp\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+>>>>>>> 6b05cb394dd0ee18781a2c223750f6ec8e77dc05
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T09:07:37.337Z",
               "EditorCaption": ""

@@ -18,10 +18,10 @@ namespace InfowayINOUTRefparam
                 student.StudentEmail = "abc@gmail.com";
                 student.StudentPhone = "1234567890";
                 student.TotalMarks = 95;
-                //string company       for Out param
-               // string result = student.calculateResult(student.TotalMarks, out company);
-                string company="Capgemini";
-                string result = student.calculateResult(student.TotalMarks, ref company);
+                string company;      // for Out param
+                string result = student.calculateResult(student.TotalMarks, out company);
+               // string company="Capgemini";
+               // string result = student.calculateResult(student.TotalMarks, ref company);
                 Console.WriteLine($"interview for company - {company} ");
                 Console.WriteLine(result);
                 student.InterviewCities("Pune", "Banglore", "Nashik", "Mumbai");

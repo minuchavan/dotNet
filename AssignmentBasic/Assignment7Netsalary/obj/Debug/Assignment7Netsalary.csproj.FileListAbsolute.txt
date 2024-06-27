@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\bin\Debug\Assignment7Netsalary.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\bin\Debug\Assignment7Netsalary.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\bin\Debug\Assignment7Netsalary.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\obj\Debug\Assignment7Netsalary.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\obj\Debug\Assignment7Netsalary.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\obj\Debug\Assignment7Netsalary.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment7Netsalary\obj\Debug\Assignment7Netsalary.pdb

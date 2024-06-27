@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\bin\Debug\Assignment6Ascii.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\bin\Debug\Assignment6Ascii.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\bin\Debug\Assignment6Ascii.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\obj\Debug\Assignment6Ascii.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\obj\Debug\Assignment6Ascii.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\obj\Debug\Assignment6Ascii.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment6Ascii\obj\Debug\Assignment6Ascii.pdb

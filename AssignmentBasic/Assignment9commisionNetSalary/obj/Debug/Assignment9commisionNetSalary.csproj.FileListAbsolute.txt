@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\bin\Debug\Assignment9commisionNetSalary.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\bin\Debug\Assignment9commisionNetSalary.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\bin\Debug\Assignment9commisionNetSalary.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\obj\Debug\Assignment9commisionNetSalary.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\obj\Debug\Assignment9commisionNetSalary.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\obj\Debug\Assignment9commisionNetSalary.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\AssignmentBasic\Assignment9commisionNetSalary\obj\Debug\Assignment9commisionNetSalary.pdb
