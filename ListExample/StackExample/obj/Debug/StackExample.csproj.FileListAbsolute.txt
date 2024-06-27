@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\bin\Debug\StackExample.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\bin\Debug\StackExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\bin\Debug\StackExample.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\obj\Debug\StackExample.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ListExample\StackExample\obj\Debug\StackExample.pdb

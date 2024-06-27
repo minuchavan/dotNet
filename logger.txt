@@ -1,0 +1,10 @@
+Welcome to Group011 Of Infoway !!!!!!!!
+DOTNET FileOperations Performance !!!!!!!!
+we create file by giving path on program... 
+ then we check if file is already created or not ..if not 
+ then we createnew txt file
+ and then we write some thing on that..after command 
+ second writealltext  it will override the previous 
+ text for solving that issue we use
+ appendalltext and then all the string are
+ save on file which we are created.. !!!!!!!!

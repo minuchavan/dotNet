@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\bin\Debug\Assignment1StaticClass.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\bin\Debug\Assignment1StaticClass.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\bin\Debug\Assignment1StaticClass.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\obj\Debug\Assignment1StaticClass.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\obj\Debug\Assignment1StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\obj\Debug\Assignment1StaticClass.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\ClassWorkAssignment\Assignment1StaticClass\obj\Debug\Assignment1StaticClass.pdb

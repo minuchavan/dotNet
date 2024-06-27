@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\bin\Debug\StreamExamples.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\bin\Debug\StreamExamples.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\bin\Debug\StreamExamples.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\obj\Debug\StreamExamples.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\obj\Debug\StreamExamples.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\obj\Debug\StreamExamples.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\StreamExamples\obj\Debug\StreamExamples.pdb

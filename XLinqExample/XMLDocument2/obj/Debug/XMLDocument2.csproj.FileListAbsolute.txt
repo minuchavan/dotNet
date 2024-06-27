@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\bin\Debug\XMLDocument2.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\bin\Debug\XMLDocument2.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\bin\Debug\XMLDocument2.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\obj\Debug\XMLDocument2.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\obj\Debug\XMLDocument2.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\obj\Debug\XMLDocument2.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\XLinqExample\XMLDocument2\obj\Debug\XMLDocument2.pdb

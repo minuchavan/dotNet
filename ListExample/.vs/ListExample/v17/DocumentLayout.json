@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A95AF04-33B0-428C-9A18-19F73DC9BF5F}|StackExample\\StackExample.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\listexample\\stackexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A95AF04-33B0-428C-9A18-19F73DC9BF5F}|StackExample\\StackExample.csproj|solutionrelative:stackexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68C866-8BEA-4D3A-ACC3-0140BE46478F}|DictionaryExample\\DictionaryExample.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\listexample\\dictionaryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68C866-8BEA-4D3A-ACC3-0140BE46478F}|DictionaryExample\\DictionaryExample.csproj|solutionrelative:dictionaryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107BA35-0BB6-4DBB-A75B-F2F2440B2C29}|QueueExample\\QueueExample.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\listexample\\queueexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107BA35-0BB6-4DBB-A75B-F2F2440B2C29}|QueueExample\\QueueExample.csproj|solutionrelative:queueexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\DictionaryExample\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\DictionaryExample\\Program.cs",
+              "RelativeToolTip": "DictionaryExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:25:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\QueueExample\\Program.cs",
+              "RelativeDocumentMoniker": "QueueExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\QueueExample\\Program.cs",
+              "RelativeToolTip": "QueueExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:17:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\StackExample\\Program.cs",
+              "RelativeDocumentMoniker": "StackExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\ListExample\\StackExample\\Program.cs",
+              "RelativeToolTip": "StackExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:06:58.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

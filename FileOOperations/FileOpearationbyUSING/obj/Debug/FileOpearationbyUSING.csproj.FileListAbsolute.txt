@@ -1,0 +1,7 @@
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\bin\Debug\FileOpearationbyUSING.exe.config
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\bin\Debug\FileOpearationbyUSING.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\bin\Debug\FileOpearationbyUSING.pdb
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\obj\Debug\FileOpearationbyUSING.csproj.AssemblyReference.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\obj\Debug\FileOpearationbyUSING.csproj.CoreCompileInputs.cache
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\obj\Debug\FileOpearationbyUSING.exe
+C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\FileOpearationbyUSING\obj\Debug\FileOpearationbyUSING.pdb
