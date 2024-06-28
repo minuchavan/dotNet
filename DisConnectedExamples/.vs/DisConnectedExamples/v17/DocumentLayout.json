@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\assignmentdisconnectedarchitecture\\employeedataonlyprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|solutionrelative:assignmentdisconnectedarchitecture\\employeedataonlyprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\assignmentdisconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|solutionrelative:assignmentdisconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\assignmentdisconnectedarchitecture\\employeedataonlyprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6253107E-D0D2-4519-BD60-57ED04BF0581}|AssignmentDisconnectedArchitecture\\AssignmentDisconnectedArchitecture.csproj|solutionrelative:assignmentdisconnectedarchitecture\\employeedataonlyprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\disconnectedexamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|solutionrelative:disconnectedexamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\disconnectedexamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|solutionrelative:disconnectedexamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\disconnectedexamples\\frmcustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|solutionrelative:disconnectedexamples\\frmcustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\disconnectedexamples\\disconnectedexamples\\frmcustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D505D581-F278-414C-9174-906ED0513156}|DisConnectedExamples\\DisConnectedExamples.csproj|solutionrelative:disconnectedexamples\\frmcustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDisconnectedArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\Program.cs",
+              "RelativeToolTip": "AssignmentDisconnectedArchitecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:22:54.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employeedataonlyprint.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "RelativeDocumentMoniker": "AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "RelativeToolTip": "AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:18:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\Form1.cs",
+              "RelativeDocumentMoniker": "DisConnectedExamples\\Form1.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\Form1.cs [Design]",
+              "RelativeToolTip": "DisConnectedExamples\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:17:59.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employeedataonlyprint.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "RelativeDocumentMoniker": "AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs [Design]",
+              "RelativeToolTip": "AssignmentDisconnectedArchitecture\\employeedataonlyprint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:17:51.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCustomerData.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\frmCustomerData.cs",
+              "RelativeDocumentMoniker": "DisConnectedExamples\\frmCustomerData.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\frmCustomerData.cs",
+              "RelativeToolTip": "DisConnectedExamples\\frmCustomerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:44:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCustomerData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\frmCustomerData.cs",
+              "RelativeDocumentMoniker": "DisConnectedExamples\\frmCustomerData.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\frmCustomerData.cs [Design]",
+              "RelativeToolTip": "DisConnectedExamples\\frmCustomerData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:40:14.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\Form1.cs",
+              "RelativeDocumentMoniker": "DisConnectedExamples\\Form1.cs",
+              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\DisConnectedExamples\\DisConnectedExamples\\Form1.cs",
+              "RelativeToolTip": "DisConnectedExamples\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:17:30.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
