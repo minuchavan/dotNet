@@ -20,7 +20,7 @@ namespace WindowesConsoleExplororAssignment
                 {
                     if (drive.DriveType != DriveType.Unknown)
                     {
-                        Console.WriteLine($"{drive.Name}");   //c
+                       // Console.WriteLine($"{drive.Name}");   //c
                         /* Console.WriteLine($"{drive.DriveType}"); //fixed
                          Console.WriteLine($"{drive.TotalFreeSpace}"); //142606200832
                          Console.WriteLine($"{drive.TotalSize}");       //239376830464
@@ -30,12 +30,15 @@ namespace WindowesConsoleExplororAssignment
                         foreach (DirectoryInfo directoryInfo1 in directoryInfo.GetDirectories())
                         {
 
-                            Console.WriteLine($"\t {directoryInfo1.Name}");
+                           // Console.WriteLine($"\t {directoryInfo1.Name}");
                             foreach (FileInfo fileInfo2 in directoryInfo1.GetFiles())
                             {
-                                 
+                                if (fileInfo2.Extension == ".txt")
+                                {
+                                    Console.WriteLine($"\t{fileInfo2.Name}");
+                                }
 
-                                Console.WriteLine($"\t\t{fileInfo2.Name}");
+                               // Console.WriteLine($"\t\t{fileInfo2.Name}");
                             }
                         }
 

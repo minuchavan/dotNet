@@ -1,0 +1,7 @@
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.exe.config
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.exe
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.pdb
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.exe
+D:\DotNet\dotNet\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.pdb

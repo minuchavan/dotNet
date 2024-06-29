@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\LinqExampleCount\\",
+  "WorkspaceRootPath": "D:\\DotNet\\dotNet\\LinqExampleCount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\linqexamplecount\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|d:\\dotnet\\dotnet\\linqexamplecount\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MS .NET\\Day-4\\LinqExamples\\LinqExamples\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|c:\\users\\group011\\desktop\\dotnet\\dotnet\\linqexamplecount\\linqexample\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|D:\\DotNet\\dotNet\\LinqExampleCount\\linqexample\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D441C3F4-23C0-4AC4-BF02-8EB88C524E86}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,31 +31,29 @@
               "ToolTip": "E:\\MS .NET\\Day-4\\LinqExamples\\LinqExamples\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:30:39.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T12:30:39.796Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Customer.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Customer.cs",
               "RelativeDocumentMoniker": "LinqExample\\Customer.cs",
-              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Customer.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Customer.cs",
               "RelativeToolTip": "LinqExample\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:26:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T12:26:21.868Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Program.cs",
               "RelativeDocumentMoniker": "LinqExample\\Program.cs",
-              "ToolTip": "C:\\Users\\Group011\\Desktop\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Program.cs",
+              "ToolTip": "D:\\DotNet\\dotNet\\LinqExampleCount\\LinqExample\\Program.cs",
               "RelativeToolTip": "LinqExample\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T12:26:08.41Z",
               "EditorCaption": ""

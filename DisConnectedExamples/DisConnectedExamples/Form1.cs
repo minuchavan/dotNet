@@ -28,14 +28,13 @@ namespace DisConnectedExamples
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            CN=new MySqlConnection("Data Source=192.168.100.80; PORT=3306; Database=group011;User Id=group011; Password=welcome;");
-            DA=new MySqlDataAdapter("Select * from Customers1", CN);
+            CN=new MySqlConnection("Data Source=127.0.0.1; PORT=3306; Database=tush;User Id=root; Password=root123;");
+            DA=new MySqlDataAdapter("Select * from Customers", CN);
             DS=new DataSet();
-            DA.Fill(DS, "Customers2");
+            DA.Fill(DS, "Customers");
             dgvCustomer.DataSource = DS.Tables[0];
 
-            DA1 = new MySqlDataAdapter("select * from Emp", CN);
-            DA1.Fill(DS, "employee");
+           
             
 
 

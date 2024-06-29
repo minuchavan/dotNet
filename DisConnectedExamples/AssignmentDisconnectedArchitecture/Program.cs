@@ -16,7 +16,8 @@ namespace AssignmentDisconnectedArchitecture
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new employeedataonlyprint());
+           // Application.Run(new employeedataonlyprint());  for employeeprint 
+            Application.Run(new Form1());
         }
     }
 }

@@ -23,7 +23,7 @@ namespace AssignmentDisconnectedArchitecture
         DataSet DS;
         private void employeedataonlyprint_Load(object sender, EventArgs e)
         {
-            CN = new MySqlConnection("Data Source=192.168.100.80; PORT=3306; Database=group011;User Id=group011; Password=welcome;");
+            CN = new MySqlConnection("Data Source=127.0.0.1; PORT=3306; Database=tush;User Id=root; Password=root123;");
             DA = new MySqlDataAdapter("Select * from Employees", CN);
             DS = new DataSet();
             DA.Fill(DS, "Employee");

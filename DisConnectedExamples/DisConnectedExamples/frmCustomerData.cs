@@ -26,11 +26,11 @@ namespace DisConnectedExamples
 
         private void frmCustomerData_Load(object sender, EventArgs e)
         {
-            CN = new MySqlConnection("Data Source=192.168.100.80; PORT=3306; Database=group011;User Id=group011; Password=welcome;");
-            DA = new MySqlDataAdapter("Select * from Customers1", CN);
+            CN = new MySqlConnection("Data Source=127.0.0.1; PORT=3306; Database=tush;User Id=root; Password=root123;");
+            DA = new MySqlDataAdapter("Select * from Customers", CN);
             CMD_BLD = new MySqlCommandBuilder(DA);
             DS = new DataSet();
-            DA.Fill(DS, "Customers1");
+            DA.Fill(DS, "Customers");
             navigate(currentIndex);
 
         }

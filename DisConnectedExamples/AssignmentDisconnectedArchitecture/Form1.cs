@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 using MySql.Data.MySqlClient;
 
 namespace AssignmentDisconnectedArchitecture
@@ -25,7 +26,7 @@ namespace AssignmentDisconnectedArchitecture
         int currentIndex = 0;
         private void Form1_Load(object sender, EventArgs e)
         {
-            CN = new MySqlConnection("Data Source=192.168.100.80; PORT=3306; Database=group011;User Id=group011; Password=welcome;");
+            CN = new MySqlConnection("Data Source=127.0.0.1; PORT=3306; Database=tush;User Id=root; Password=root123;");
             DA = new MySqlDataAdapter("Select * from Employees", CN);
             CMD_BLD = new MySqlCommandBuilder(DA);
             DS = new DataSet();

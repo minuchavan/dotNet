@@ -1,0 +1,17 @@
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe.config
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.pdb
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\MySql.Data.dll
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\System.Memory.dll
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\System.Numerics.Vectors.dll
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\System.Buffers.dll
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\MySql.Data.xml
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Form1.resources
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Properties.Resources.resources
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.GenerateResource.cache
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\Connecte.A0585204.Up2Date
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.exe
+D:\DotNet\dotNet\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.pdb

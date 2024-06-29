@@ -5,3 +5,10 @@ C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\WindowesConsoleExplororA
 C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.exe
 C:\Users\Group011\Desktop\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.pdb
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\bin\Debug\WindowesConsoleExplororAssignment.exe.config
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\bin\Debug\WindowesConsoleExplororAssignment.exe
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\bin\Debug\WindowesConsoleExplororAssignment.pdb
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.csproj.AssemblyReference.cache
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.csproj.CoreCompileInputs.cache
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.exe
+D:\DotNet\dotNet\FileOOperations\WindowesConsoleExplororAssignment\obj\Debug\WindowesConsoleExplororAssignment.pdb
